@@ -1,4 +1,4 @@
-#code deployed for creating and SQS queue
+#code deployed for creating an SQS queue
 
 import boto3
 sqs=boto3.resource("sqs")
