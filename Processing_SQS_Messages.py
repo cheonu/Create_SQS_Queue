@@ -1,3 +1,4 @@
+#code deployed for retrieving an SQS message
 import boto3
 
 sqs=boto3.resource("sqs")
